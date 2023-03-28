@@ -11,3 +11,5 @@ Este es un curso dintroductorio de datos
 3. Aprender el sistema de control de versiones [git](https://github.com/)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/280px-As08-16-2593.jpg)
+
+
