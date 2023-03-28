@@ -9,3 +9,5 @@ Este es un curso dintroductorio de datos
 1. Aprender el lenguaje de programcion  [R](https://www.r-project.org/)
 2. Aprender el lenguaje marcado [Markdown](https://markdown.es/)
 3. Aprender el sistema de control de versiones [git](https://github.com/)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/280px-As08-16-2593.jpg)
