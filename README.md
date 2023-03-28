@@ -13,3 +13,4 @@ Este es un curso dintroductorio de datos
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/280px-As08-16-2593.jpg)
 
 
+<
