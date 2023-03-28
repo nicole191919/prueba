@@ -16,3 +16,5 @@ Este es un curso dintroductorio de datos
 
                                                                                                                        
                                                                                                                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/678px-As08-16-2593.jpg?20120418171958" width="300">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/678px-As08-16-2593.jpg?20120418171958" width="300">
