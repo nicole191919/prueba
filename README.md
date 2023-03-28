@@ -4,3 +4,8 @@ Este es un repositorio de prueba del curso **GF0604 Procesamiento de datos geogr
 
 ## Descripciom 
 Este es un curso dintroductorio de datos 
+
+## Objetivos 
+1. Aprender el lenguaje de programcion  [R](https://www.r-project.org/)
+2. Aprender el lenguaje marcado [Markdown](https://markdown.es/)
+3. Aprender el sistema de control de versiones [git](https://github.com/)
